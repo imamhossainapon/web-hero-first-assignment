@@ -31,3 +31,16 @@ width: 170px; height: 30px; border: 1px solid rgb(13,19,33); padding: 10px 40px;
  .display{ display: block; text-align: center; margin-top: 0;}
  .video{ display: flex; justify-content: center;align-items: center; margin-top: 50px;}
  iframe{border-radius: 3%;}
+
+ /* main -- section3 style */
+ .flex3{ display: flex; justify-content: center; align-items: center;padding: 80px 120px ; }.mona{ height: 200px; width: 370px;  }
+
+
+ /* footer-- section style */
+  .footersection{ display: flex; justify-content: center;}
+  .footerparent{height:186px; width: 844px;background-image: url(assets/handshake.jpg); background-size: cover; background-repeat: no-repeat; padding:120px 200px ;} 
+input{ height: 43px; width: 500px;}
+  .inputdiv{ display: flex; justify-content: center;margin-top: 100px;}
+  .inputbutton{ height: 50px; width: 100px; margin-left:10px ;}
+  
+
