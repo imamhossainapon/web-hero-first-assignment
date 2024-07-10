@@ -26,3 +26,8 @@ width: 170px; height: 30px; border: 1px solid rgb(13,19,33); padding: 10px 40px;
 .textdiv2{display: flex; justify-content: flex-start; padding: 30px; align-items: flex-start;}
 .monabutton{height: 30px; width: 100px; border: rgb(13,19,33) 1px solid; background-color: white;}
 .pading{ padding-bottom:30px ;}
+
+/* main -- section 2 style */
+ .display{ display: block; text-align: center; margin-top: 0;}
+ .video{ display: flex; justify-content: center;align-items: center; margin-top: 50px;}
+ iframe{border-radius: 3%;}
