@@ -2,7 +2,7 @@
 body{ margin: 0; padding: 0; font-family: "Azeret Mono", monospace;}
 
 /* header navbar and section style */
-nav{display: flex; justify-content: space-between; margin: 10px 120px; align-items: center;} 
+nav{display: flex; justify-content: space-between; margin: 10px 120px; width:auto ; align-items: center;} 
 
 .a2{text-decoration: none; color: rgb(13,19,33); font-size: 20px;font-weight: 600;
 width: 170px; height: 30px; border: 1px solid rgb(13,19,33); padding: 10px 40px;
